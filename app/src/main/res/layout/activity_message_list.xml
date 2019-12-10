@@ -9,6 +9,8 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_above="@+id/input"
+        app:incomingDefaultBubbleColor="@color/colorPurpleLight"
+        app:outcomingDefaultBubbleColor="@color/colorPurpleDark"
         app:textAutoLink="all"/>
 
     <View
